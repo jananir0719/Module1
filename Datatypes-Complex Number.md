@@ -15,14 +15,14 @@ To write a Python program that reads two integers, creates a complex number usin
 ```
 # Create and display a complex number
 
-real = int(input("Enter the real part: "))
-imag = int(input("Enter the imaginary part: "))
+real = int(input())
+imag = int(input())
 
 c = complex(real, imag)
 
-print("Complex number:", c)
-print("Real part:", c.real)
-print("Imaginary part:", c.imag)
+print( c)
+print( c.real)
+print(c.imag)
 ```
 
 ## Output
