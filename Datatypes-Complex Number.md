@@ -26,7 +26,8 @@ print("Imaginary part:", c.imag)
 ```
 
 ## Output
-<img width="373" height="162" alt="image" src="https://github.com/user-attachments/assets/ec84a794-e1fc-4653-83d2-958913136c69" />
+<img width="1031" height="707" alt="image" src="https://github.com/user-attachments/assets/4b52db11-568a-41f9-b6b2-d5d70bda3993" />
+
 
 
 ## Result
