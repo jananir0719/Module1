@@ -10,14 +10,12 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ```
-# Read a string from the user and print it
-
-s = input("Enter a string: ")
-print(s)
+men_stepped_on_the_moon= input()
+print  (men_stepped_on_the_moon)
 ```
 
 ## Output
-<img width="1003" height="68" alt="image" src="https://github.com/user-attachments/assets/80f822a5-c830-46f1-b63e-01a7897f1b5e" />
+<img width="1043" height="208" alt="image" src="https://github.com/user-attachments/assets/4dcb798d-c50b-441e-9f2f-9ff087b9fca3" />
 
 ## Result
 Thus, the Python program to read a string from the user and print it was executed successfully.
